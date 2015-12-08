@@ -10,20 +10,19 @@ import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.openxml4j.opc.OPCPackage;
 import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 
 public class ExcelUtils {
 
-    private static XSSFSheet ExcelWSheet;
+    private static Sheet ExcelWSheet;
 
-    private static XSSFWorkbook ExcelWBook;
+    private static Workbook ExcelWBook;
 
-    private static XSSFCell Cell;
+    private static org.apache.poi.ss.usermodel.Cell Cell;
 
     private static Row Row;
     private static Log log;
@@ -36,6 +35,33 @@ public class ExcelUtils {
     }
 
 */
+    public static Sheet getExcelWSheet(String SheetName){
+        int SheetNumber = 0;
+        Sheet sheet=null;
+        int i=0;
+    //    Log.info("work book is "+ExcelWBook);
+        SheetNumber=ExcelWBook.getNumberOfSheets();
+        for(i=0;i<SheetNumber;i++) {
+            //String name=null;
+            String name=ExcelWBook.getSheetName(i);
+            Log.info("sheet is " + name);
+
+
+            if (name.equalsIgnoreCase(SheetName))
+            {
+                break;
+
+             }
+        }
+    //    Reporter.log("index is " + index);
+        if(i>=SheetNumber){
+            return null;
+        }else
+         {
+            sheet=ExcelWBook.getSheetAt(i);
+        }
+      return sheet;
+    }
     public static Object[][] getTableArray(String FilePath, String SheetName,int SR,int SC) throws Exception {
 
         String[][] tabArray = null;
@@ -48,9 +74,11 @@ public class ExcelUtils {
 
             // Access the required test data sheet
 
-            ExcelWBook = new XSSFWorkbook(ExcelFile);
+//            ExcelWBook = create(ExcelFile);
 
-            ExcelWSheet = ExcelWBook.getSheet(SheetName);
+  //          ExcelWSheet = getExcelWSheet(SheetName);
+            setExcelFile(FilePath,SheetName);
+
 
             int startRow=SR;
 
@@ -193,11 +221,11 @@ public class ExcelUtils {
                 log.info("excel book is XSSF  "+ ExcelWBook);
             }
 */
-         //   ExcelWBook = create(ExcelFile);
-            ExcelWBook=new XSSFWorkbook(OPCPackage.open(ExcelFile));
-            log.info("excel book is "+ ExcelWBook);
+            ExcelWBook = create(ExcelFile);
+         //   ExcelWBook=new XSSFWorkbook(OPCPackage.open(ExcelFile));
+            log.info("excel book is "+ ExcelWBook.toString());
 
-            ExcelWSheet = ExcelWBook.getSheet(SheetName);
+            ExcelWSheet = getExcelWSheet(SheetName);
             log.info("ExcelWSheet is "+ExcelWSheet);
 
         } catch (Exception e){
@@ -217,13 +245,15 @@ public class ExcelUtils {
 
         try{
 
-            FileInputStream ExcelFile = new FileInputStream(FilePath);
+       //     FileInputStream ExcelFile = new FileInputStream(FilePath);
 
             // Access the required test data sheet
 
-            ExcelWBook = new XSSFWorkbook(ExcelFile);
+ //           ExcelWBook = new XSSFWorkbook(ExcelFile);
 
-            ExcelWSheet = ExcelWBook.getSheet(SheetName);
+ //           ExcelWSheet = ExcelWBook.getSheet(SheetName);
+
+            setExcelFile(FilePath, SheetName);
 
             int startCol = 1;
 
@@ -364,8 +394,8 @@ public class ExcelUtils {
 
     public static void main(String arg0[]) {
         ExcelUtils excel = new ExcelUtils();
-        String FilePath = "testdata/userdata1.xls";
-        String SheetName = "sheet1";
+        String FilePath = "testdata/userdata.xlsx";
+        String SheetName = "userdata1";
         /*
         try {
             getTableArray(FilePath, SheetName,1,1);

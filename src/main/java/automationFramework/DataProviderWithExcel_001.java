@@ -6,20 +6,20 @@ package automationFramework;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import untils.ExcelUtils;
+import untils.Listener;
 import untils.Log;
 
 import static appModules.ComOpe.*;
+
+@Listeners(untils.Listener.class)
 
 public class DataProviderWithExcel_001 {
 
         private static WebDriver driver;
     private static String FilePath="testdata/userdata.xlsx";
-    private static String sheetname="sheet1";
+    private static String sheetname="userdata1";
     private static Log log=new Log(DataProviderWithExcel_001.class.getName());
     private int iTestCaseRow;
 
@@ -74,8 +74,9 @@ public class DataProviderWithExcel_001 {
     @BeforeMethod
 public void beforeMethod(){
     Reporter.log("launch the web site |");
+        String browser="chrome";
     try {
-        driver =setUp();
+        driver =setUp(browser);
     } catch (Exception e) {
         e.printStackTrace();
     }
@@ -96,6 +97,7 @@ public void beforeMethod(){
     }
     @AfterMethod
         public void afterMethod(){
+            ExcelUtils.setCell(FilePath,sheetname,iTestCaseRow,3, Listener.status);
             try {
                 Reporter.log("logout the web site!|");
                 tearDown(driver);

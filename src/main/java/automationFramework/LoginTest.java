@@ -8,12 +8,11 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import untils.Log;
 
-import java.util.logging.Logger;
-
 public class LoginTest {
 	private WebDriver driver;
 	String name=LoginTest.class.getName();
 	private Log mylog=new Log(LoginTest.class.getName());
+	private String browser="chrome";
 //	private Logger logger=Logger.getLogger(LoginTest.class.getName());
 	
 	
@@ -34,7 +33,7 @@ public class LoginTest {
 		  mylog.info("launch the website");
 		  mylog.info(LoginTest.class.getName());
 	//	  logger.info("launch !");
-		driver=ComOpe.setUp();
+		driver=ComOpe.setUp(browser);
 		Reporter.log("Launch the web site Successful | " );
 	} catch (Exception e) {
 		// TODO Auto-generated catch block

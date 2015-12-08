@@ -1,0 +1,21 @@
+<suite name="Suite-Listeners" parallel="none">
+
+    <listeners>
+
+        <listener class-name="untils.Listener"></listener>
+
+    </listeners>
+
+    <test name="Batch-Listeners">
+
+        <classes>
+
+            <class name="automationFramework.TestListener" />
+            <class name="automationFramework.Dependent"/>
+            <class name="automationFramework.DataProviderWithExcel_001"/>
+
+        </classes>
+
+    </test>
+
+</suite>
