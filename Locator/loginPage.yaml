@@ -1,0 +1,12 @@
+account:
+  type: id
+  value:idPlaceholder
+userName:
+  type:id
+  value:idInput
+PwdInput:
+  type: id
+  value: pwdInput
+loginButton:
+  type: id
+  value:loginBtn

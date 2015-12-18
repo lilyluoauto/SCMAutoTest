@@ -6,7 +6,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
+<<<<<<< HEAD
+import pageObjects.Page;
+=======
 import pageObjects.LogInPage;
+>>>>>>> 9e2112cdfd41f10de8e715d14725ed3f9596323c
 import untils.Log;
 
 import java.util.concurrent.TimeUnit;
@@ -19,6 +23,10 @@ public class ComOpe {
   private boolean acceptNextAlert = true;
   private static StringBuffer verificationErrors = new StringBuffer();
   private static Log mylog=new Log(ComOpe.class.getName());
+<<<<<<< HEAD
+  private static Page pg;
+=======
+>>>>>>> 9e2112cdfd41f10de8e715d14725ed3f9596323c
  
 public static WebDriver setUp(String browser) throws Exception {
    // driver = new FirefoxDriver();
@@ -58,17 +66,38 @@ public static WebDriver setUp(String browser) throws Exception {
 
 
   public static void SignInAction(WebDriver d) throws Exception {
+<<<<<<< HEAD
+    //  driver.get(baseUrl + "/");
+    pg=new Page("loginPage",d);
+    pg.getElement(pg.userName,1).sendKeys(untils.Constants.sUsername);
+    pg.getElement(pg.PwdInput,1).sendKeys(untils.Constants.sPwd);
+    pg.getElement(pg.loginButton,1).click();
+  }
+/*
+=======
   //  driver.get(baseUrl + "/");
     LogInPage.getElement(d,LogInPage.userName).sendKeys(untils.Constants.sUsername);
     LogInPage.getElement(d,LogInPage.PwdInput).sendKeys(untils.Constants.sPwd);
     LogInPage.getElement(d, LogInPage.loginButton).click();
   }
+>>>>>>> 9e2112cdfd41f10de8e715d14725ed3f9596323c
   public static void SignInAction(WebDriver d ,String username, String passwd){
     LogInPage.getElement(d,LogInPage.userName).sendKeys(username);
     LogInPage.getElement(d,LogInPage.PwdInput).sendKeys(passwd);
     LogInPage.getElement(d, LogInPage.loginButton).click();
   }
+<<<<<<< HEAD
+/*
+  public static void SignInAction_loc(WebDriver d) throws Exception {
+    //  driver.get(baseUrl + "/");
+    LogInPage.getElement(d,LogInPage.userName).sendKeys(untils.Constants.sUsername);
+    LogInPage.getElement(d,LogInPage.PwdInput).sendKeys(untils.Constants.sPwd);
+    LogInPage.getElement(d, LogInPage.loginButton).click();
+  }
+*/
+=======
 
+>>>>>>> 9e2112cdfd41f10de8e715d14725ed3f9596323c
 
 public static void tearDown(WebDriver d) throws Exception {
     d.quit();

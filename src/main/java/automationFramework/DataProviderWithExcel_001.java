@@ -92,7 +92,11 @@ public void beforeMethod(){
 
 
         Reporter.log("sign in web site|");
+<<<<<<< HEAD
+        //SignInAction(driver, sUsername, sPassword);
+=======
         SignInAction(driver, sUsername, sPassword);
+>>>>>>> 9e2112cdfd41f10de8e715d14725ed3f9596323c
 
     }
     @AfterMethod
