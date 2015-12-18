@@ -1,0 +1,9 @@
+<suite name="TestNG">
+    <test name="TestPara">
+        <parameter name="sUsername" value="licy_luo"/>
+        <parameter name="sPassword" value="lyl&amp;&amp;lyh1"/>
+        <classes>
+            <class name="automationFramework.DataProviderWithExcel_001"/>
+        </classes>
+    </test>
+</suite>
