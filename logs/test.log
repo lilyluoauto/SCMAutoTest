@@ -1,0 +1,819 @@
+[15/12/02 17:24:18:680][untils.Log-info] launch the website
+  [15/12/02 17:24:18:691][untils.Log-info] the current is VISTA
+  [15/12/02 17:24:23:284][untils.Log-info] sign in the web
+  [15/12/02 17:29:17:594][untils.Log-info] launch the website
+  [15/12/02 17:29:17:596][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:29:17:604][untils.Log-info] the current is VISTA
+  [15/12/02 17:29:26:021][untils.Log-info] sign in the web
+  [15/12/02 17:32:13:904][untils.Log-info] launch the website
+  [15/12/02 17:32:13:906][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:32:13:944][untils.Log-info] the current is VISTA
+  [15/12/02 17:32:19:314][untils.Log-info] sign in the web
+  [15/12/02 17:36:31:521][untils.Log-info] launch the website
+  [15/12/02 17:36:31:523][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:36:31:532][untils.Log-info] the current is VISTA
+  [15/12/02 17:36:36:121][untils.Log-info] sign in the web
+  [15/12/02 17:37:43:373][untils.Log-info] launch the website
+  [15/12/02 17:37:43:376][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:37:43:383][untils.Log-info] the current is VISTA
+  [15/12/02 17:37:48:080][untils.Log-info] sign in the web
+  [15/12/02 17:50:46:189][untils.Log-info] launch the website
+  [15/12/02 17:50:46:191][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:50:46:199][untils.Log-info] the current is VISTA
+  [15/12/02 17:50:51:263][untils.Log-info] sign in the web
+  [15/12/02 17:51:30:520][untils.Log-info] launch the website
+  [15/12/02 17:51:30:522][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:51:30:530][untils.Log-info] the current is VISTA
+  [15/12/02 17:51:35:311][untils.Log-info] sign in the web
+  [15/12/02 17:52:00:026][untils.Log-info] launch the website
+  [15/12/02 17:52:00:028][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:52:00:035][untils.Log-info] the current is VISTA
+  [15/12/02 17:52:04:836][untils.Log-info] sign in the web
+  [15/12/02 17:52:42:368][untils.Log-info] launch the website
+  [15/12/02 17:52:42:370][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:52:42:378][untils.Log-info] the current is VISTA
+  [15/12/02 17:52:47:250][untils.Log-info] sign in the web
+  [15/12/02 17:52:56:760][untils.Log-info] launch the website
+  [15/12/02 17:52:56:762][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:52:56:770][untils.Log-info] the current is VISTA
+  [15/12/02 17:53:46:115][untils.Log-info] sign in the web
+  [15/12/02 17:56:30:143][untils.Log-info] launch the website
+  [15/12/02 17:56:30:146][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:56:30:153][untils.Log-info] the current is VISTA
+  [15/12/02 17:56:34:948][untils.Log-info] sign in the web
+  [15/12/02 17:57:38:357][untils.Log-info] launch the website
+  [15/12/02 17:57:38:360][untils.Log-info] automationFramework.LoginTest
+  [15/12/02 17:57:38:368][untils.Log-info] the current is VISTA
+  [15/12/02 17:58:18:263][untils.Log-info] sign in the web
+  [15/12/03 11:00:18:134][untils.Log-info] launch the website
+  [15/12/03 11:00:18:136][untils.Log-info] automationFramework.LoginTest
+  [15/12/03 11:00:18:144][untils.Log-info] the current is VISTA
+  [15/12/03 11:00:23:240][untils.Log-info] sign in the web
+  [15/12/03 11:19:54:283][untils.Log-info] launch the website
+  [15/12/03 11:19:54:286][untils.Log-info] automationFramework.LoginTest
+  [15/12/03 11:19:54:294][untils.Log-info] the current is VISTA
+  [15/12/03 11:19:59:481][untils.Log-info] sign in the web
+  [15/12/03 11:21:57:957][untils.Log-info] launch the website
+  [15/12/03 11:21:57:962][untils.Log-info] automationFramework.LoginTest
+  [15/12/03 11:21:57:972][untils.Log-info] the current is VISTA
+  [15/12/03 11:22:03:311][untils.Log-info] sign in the web
+  [15/12/03 17:13:34:215][untils.Log-info] the current is VISTA
+  [15/12/03 17:15:55:306][untils.Log-info] the current is VISTA
+  [15/12/03 17:18:05:876][untils.Log-info] the current is VISTA
+  [15/12/03 17:20:50:826][untils.Log-info] the current is VISTA
+  [15/12/03 17:22:58:715][untils.Log-info] the current is VISTA
+  [15/12/03 17:25:50:296][untils.Log-info] the current is VISTA
+  [15/12/03 17:27:35:601][untils.Log-info] the current is VISTA
+  [15/12/03 17:44:48:768][untils.Log-info] the current is VISTA
+  [15/12/03 18:02:19:235][untils.Log-info] the current is VISTA
+  [15/12/03 18:02:27:800][untils.Log-info] the current is VISTA
+  [15/12/04 13:17:38:068][untils.Log-info] the current is VISTA
+  [15/12/04 13:17:47:651][untils.Log-info] the current is VISTA
+  [15/12/04 13:22:46:130][untils.Log-info] the current is VISTA
+  [15/12/04 13:22:55:112][untils.Log-info] the current is VISTA
+  [15/12/04 13:33:33:722][untils.Log-info] the current is VISTA
+  [15/12/04 13:33:42:681][untils.Log-info] the current is VISTA
+  [15/12/04 13:37:22:238][untils.Log-info] testdata/userdata1.xls
+  [15/12/04 13:37:22:987][untils.Log-info] totalRows is 2
+  [15/12/04 13:37:22:989][untils.Log-info] totalcols is 3
+  [15/12/04 13:37:22:994][untils.Log-info] 
+  [15/12/04 13:38:28:171][untils.Log-info] testdata/userdata1.xls
+  [15/12/04 13:38:29:038][untils.Log-info] totalRows is 2
+  [15/12/04 13:38:29:039][untils.Log-info] totalcols is 3
+  [15/12/04 13:39:33:094][untils.Log-info] 
+  [15/12/04 13:42:12:186][untils.Log-info] testdata/userdata1.xls
+  [15/12/04 13:42:12:912][untils.Log-info] totalRows is 2
+  [15/12/04 13:42:12:913][untils.Log-info] totalcols is 3
+  [15/12/04 13:42:21:794][untils.Log-info] testdata/userdata1.xls
+  [15/12/04 13:42:22:635][untils.Log-info] totalRows is 2
+  [15/12/04 13:42:22:635][untils.Log-info] totalcols is 3
+  [15/12/04 13:55:35:586][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 13:55:36:315][untils.Log-info] totalRows is 2
+  [15/12/04 13:55:36:315][untils.Log-info] totalcols is 3
+  [15/12/04 13:58:27:297][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 13:58:27:976][untils.Log-info] totalRows is 2
+  [15/12/04 13:58:27:976][untils.Log-info] totalcols is 3
+  [15/12/04 13:59:34:423][untils.Log-info] testdata/userdata1.xls
+  [15/12/04 13:59:35:106][untils.Log-info] totalRows is 2
+  [15/12/04 13:59:35:108][untils.Log-info] totalcols is 3
+  [15/12/04 14:01:36:288][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:01:37:002][untils.Log-info] totalRows is 2
+  [15/12/04 14:01:37:003][untils.Log-info] totalcols is 3
+  [15/12/04 14:01:37:008][untils.Log-info] data is [[Ljava.lang.String;@6bf1640f
+  [15/12/04 14:05:27:965][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:05:28:648][untils.Log-info] totalRows is 2
+  [15/12/04 14:05:28:649][untils.Log-info] totalcols is 3
+  [15/12/04 14:05:28:654][untils.Log-info] data is [[Ljava.lang.String;@64dbfe37
+  [15/12/04 14:05:57:636][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:05:58:381][untils.Log-info] totalRows is 2
+  [15/12/04 14:05:58:381][untils.Log-info] totalcols is 3
+  [15/12/04 14:05:58:386][untils.Log-info] data is [[Ljava.lang.String;@7049a366
+  [15/12/04 14:08:54:577][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:08:55:239][untils.Log-info] totalRows is 2
+  [15/12/04 14:08:55:239][untils.Log-info] totalcols is 3
+  [15/12/04 14:08:55:244][untils.Log-info] data is [[Ljava.lang.String;@5c03d673
+  [15/12/04 14:10:13:038][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:10:45:228][untils.Log-info] totalRows is 2
+  [15/12/04 14:10:45:228][untils.Log-info] totalcols is 3
+  [15/12/04 14:11:09:246][untils.Log-info] data is [[Ljava.lang.String;@66dafb3a
+  [15/12/04 14:12:11:844][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:12:12:562][untils.Log-info] totalRows is 2
+  [15/12/04 14:12:12:562][untils.Log-info] totalcols is 3
+  [15/12/04 14:12:12:567][untils.Log-info] data is [[Ljava.lang.String;@270f009c
+  [15/12/04 14:13:23:878][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:13:24:578][untils.Log-info] totalRows is 2
+  [15/12/04 14:13:24:579][untils.Log-info] totalcols is 3
+  [15/12/04 14:13:24:584][untils.Log-info] data is [[Ljava.lang.String;@2c6ba7bf
+  [15/12/04 14:13:48:968][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:14:16:381][untils.Log-info] totalRows is 2
+  [15/12/04 14:14:16:382][untils.Log-info] totalcols is 3
+  [15/12/04 14:17:39:932][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:17:43:396][untils.Log-info] totalRows is 2
+  [15/12/04 14:17:43:396][untils.Log-info] totalcols is 3
+  [15/12/04 14:18:00:436][untils.Log-info] data is [[Ljava.lang.String;@6289fe96
+  [15/12/04 14:18:00:463][untils.Log-info] the current is VISTA
+  [15/12/04 14:18:42:304][untils.Log-info] testdata/userdata.xlsx
+  [15/12/04 14:18:43:050][untils.Log-info] totalRows is 2
+  [15/12/04 14:18:43:050][untils.Log-info] totalcols is 3
+  [15/12/04 14:18:43:055][untils.Log-info] data is [[Ljava.lang.String;@3d27a0e2
+  [15/12/04 14:18:43:069][untils.Log-info] the current is VISTA
+  [15/12/04 14:18:54:653][untils.Log-info] the current is VISTA
+  [15/12/04 15:45:17:411][untils.Log-info] test case name is automationFramework.TestNGParam@677951c9
+  [15/12/04 15:45:17:414][untils.Log-info] test case name is TestNGParamby getTestName!
+  [15/12/04 15:45:17:473][untils.Log-info] the current is VISTA
+  [15/12/04 15:56:24:877][untils.Log-info] test case name is automationFramework.TestNGParam@7d2193ae
+  [15/12/04 15:56:24:880][untils.Log-info] test case name is TestNGParamby getTestName!
+  [15/12/04 15:56:24:936][untils.Log-info] the current is VISTA
+  [15/12/04 15:57:42:831][untils.Log-info] test case name is automationFramework.TestNGParam@2766c4b0
+  [15/12/04 15:57:42:834][untils.Log-info] test case name is TestNGParamby getTestName!
+  [15/12/04 15:57:42:891][untils.Log-info] the current is VISTA
+  [15/12/04 15:58:27:319][untils.Log-info] test case name is automationFramework.TestNGParam@2766c4b0
+  [15/12/04 15:58:27:321][untils.Log-info] test case name is TestNGParamby getTestName!
+  [15/12/04 15:58:27:379][untils.Log-info] the current is VISTA
+  [15/12/04 16:01:40:283][untils.Log-info] test case name is automationFramework.TestNGParam@5810f29f
+  [15/12/04 16:04:08:567][untils.Log-info] test case name is TestNGParamby getTestName!
+  [15/12/04 16:04:11:446][untils.Log-info] the current is VISTA
+  [15/12/04 16:12:35:431][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@7d2193ae
+  [15/12/04 16:12:35:433][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 16:12:35:433][untils.Log-info] rowCount=2
+  [15/12/04 16:12:35:490][untils.Log-info] the current is VISTA
+  [15/12/04 16:13:31:916][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@737797b1
+  [15/12/04 16:13:48:650][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 16:13:48:651][untils.Log-info] rowCount=2
+  [15/12/04 16:14:59:605][untils.Log-info] the current is VISTA
+  [15/12/04 16:16:30:007][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_004@308820b0
+  [15/12/04 16:16:51:649][untils.Log-info] test case name is DataProviderWithExcel_004by getTestName!
+  [15/12/04 16:16:51:650][untils.Log-info] rowCount=2
+  [15/12/04 16:18:31:548][untils.Log-info] the current is VISTA
+  [15/12/04 16:19:57:731][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_004@308820b0
+  [15/12/04 16:20:01:096][untils.Log-info] test case name is DataProviderWithExcel_004by getTestName!
+  [15/12/04 16:20:01:096][untils.Log-info] rowCount=2
+  [15/12/04 16:20:04:208][untils.Log-info] i=0
+  [15/12/04 16:20:06:064][untils.Log-info] i=1
+  [15/12/04 16:49:32:034][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_004@737797b1
+  [15/12/04 16:49:43:036][untils.Log-info] test case name is DataProviderWithExcel_004by getTestName!
+  [15/12/04 16:49:43:036][untils.Log-info] rowCount=2
+  [15/12/04 16:49:51:691][untils.Log-info] i=0
+  [15/12/04 16:49:56:643][untils.Log-info] i=1
+  [15/12/04 16:50:47:740][untils.Log-info] totalrows is 2
+  [15/12/04 16:50:47:740][untils.Log-info] totalCols is 3
+  [15/12/04 16:56:37:373][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 16:57:03:593][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_004@509dd43b
+  [15/12/04 16:57:13:689][untils.Log-info] test case name is DataProviderWithExcel_004by getTestName!
+  [15/12/04 16:57:13:689][untils.Log-info] rowCount=2
+  [15/12/04 16:59:28:671][untils.Log-info] i=0
+  [15/12/04 16:59:36:663][untils.Log-info] i=1
+  [15/12/04 17:00:25:023][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:00:26:928][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_004@509dd43b
+  [15/12/04 17:00:33:231][untils.Log-info] test case name is DataProviderWithExcel_004by getTestName!
+  [15/12/04 17:00:33:232][untils.Log-info] rowCount=2
+  [15/12/04 17:00:51:303][untils.Log-info] i=0
+  [15/12/04 17:00:52:815][untils.Log-info] i=1
+  [15/12/04 17:00:57:598][untils.Log-info] i=2
+  [15/12/04 17:02:27:326][untils.Log-info] total rows is 2
+  [15/12/04 17:02:32:670][untils.Log-info] totalCols is 3
+  [15/12/04 17:03:23:455][untils.Log-info] 
+  [15/12/04 17:04:48:813][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:04:51:101][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4bfb1305
+  [15/12/04 17:04:55:869][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:04:55:870][untils.Log-info] rowCount=2
+  [15/12/04 17:04:59:772][untils.Log-info] i=0
+  [15/12/04 17:05:06:101][untils.Log-info] i=1
+  [15/12/04 17:05:34:628][untils.Log-info] total rows is 2
+  [15/12/04 17:05:37:765][untils.Log-info] totalCols is 3
+  [15/12/04 17:06:35:320][untils.Log-info] the current is VISTA
+  [15/12/04 17:06:46:721][untils.Log-info] the current is VISTA
+  [15/12/04 17:10:33:557][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:11:28:841][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:11:30:106][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4a96d110
+  [15/12/04 17:11:31:651][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:11:31:651][untils.Log-info] rowCount=2
+  [15/12/04 17:11:32:658][untils.Log-info] i=0
+  [15/12/04 17:11:35:339][untils.Log-info] i=1
+  [15/12/04 17:11:38:858][untils.Log-info] total rows is 2
+  [15/12/04 17:11:39:770][untils.Log-info] totalCols is 3
+  [15/12/04 17:12:38:497][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:12:39:794][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@29d896d6
+  [15/12/04 17:12:40:713][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:12:40:714][untils.Log-info] rowCount=2
+  [15/12/04 17:12:41:827][untils.Log-info] i=0
+  [15/12/04 17:12:42:937][untils.Log-info] i=1
+  [15/12/04 17:12:45:259][untils.Log-info] total rows is 2
+  [15/12/04 17:12:45:771][untils.Log-info] totalCols is 3
+  [15/12/04 17:13:26:855][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:13:28:122][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@737797b1
+  [15/12/04 17:13:30:745][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:13:30:746][untils.Log-info] rowCount=2
+  [15/12/04 17:13:43:561][untils.Log-info] i=0
+  [15/12/04 17:13:56:929][untils.Log-info] i=1
+  [15/12/04 17:14:38:826][untils.Log-info] total rows is 2
+  [15/12/04 17:14:52:353][untils.Log-info] totalCols is 3
+  [15/12/04 17:15:35:180][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:15:42:400][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@509dd43b
+  [15/12/04 17:16:05:049][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:16:36:649][untils.Log-info] rowCount=2
+  [15/12/04 17:16:38:456][untils.Log-info] i=0
+  [15/12/04 17:16:41:136][untils.Log-info] i=1
+  [15/12/04 17:17:17:768][untils.Log-info] total rows is 2
+  [15/12/04 17:17:32:664][untils.Log-info] totalCols is 3
+  [15/12/04 17:19:35:243][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/04 17:19:35:245][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@509dd43b
+  [15/12/04 17:19:35:245][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/04 17:19:36:887][untils.Log-info] rowCount=2
+  [15/12/04 17:19:37:863][untils.Log-info] i=0
+  [15/12/04 17:19:38:782][untils.Log-info] i=1
+  [15/12/04 17:19:41:047][untils.Log-info] total rows is 2
+  [15/12/04 17:19:41:544][untils.Log-info] totalCols is 3
+  [15/12/04 17:20:15:696][untils.Log-info] the current is VISTA
+  [15/12/07 09:24:31:354][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/07 09:25:30:392][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/07 09:25:34:594][untils.Log-info] cell is null
+  [15/12/07 09:32:50:730][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/07 09:32:56:147][untils.Log-info] cell is 
+  [15/12/07 09:33:06:994][untils.Log-info] set the result is pass
+  [15/12/07 09:35:01:167][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/07 09:35:03:274][untils.Log-info] cell is 
+  [15/12/07 09:35:05:136][untils.Log-info] set the result is pass
+  [15/12/07 09:35:43:667][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/07 09:35:47:363][untils.Log-info] cell is 
+  [15/12/07 09:36:01:633][untils.Log-info] set the result is pass
+  [15/12/07 10:01:37:905][untils.Log-info] exelFile is java.io.FileOutputStream@18aa5e75
+  [15/12/07 10:05:09:178][untils.Log-info] exelFile is java.io.FileOutputStream@7e14feea
+  [15/12/07 12:51:53:605][untils.Log-info] inp.markSupported=false
+  [15/12/07 12:51:53:608][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@339cefd6
+  [15/12/07 12:53:40:546][untils.Log-info] inp.markSupported=false
+  [15/12/07 12:53:40:549][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@6c09e6e0
+  [15/12/07 12:55:01:099][untils.Log-info] inp.markSupported=true
+  [15/12/07 12:55:01:102][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@339cefd6
+  [15/12/07 12:55:12:387][untils.Log-info] inp.markSupported=true
+  [15/12/07 12:55:12:390][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@59c8997e
+  [15/12/07 13:07:26:634][untils.Log-info] excel file isD:\project\SCM-auto\testdata\userdata.xlsx
+  [15/12/07 13:07:26:637][untils.Log-info] excel book is null
+  [15/12/07 13:09:45:608][untils.Log-info] excel file isD:\project\SCM-auto\testdata\userdata.xlsx
+  [15/12/07 13:09:45:610][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:09:45:610][untils.Log-info] excel book is null
+  [15/12/07 13:12:52:238][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:12:52:241][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:12:52:241][untils.Log-info] prefix is xlsx
+  [15/12/07 13:12:52:242][untils.Log-info] excel book is null
+  [15/12/07 13:18:22:314][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:18:22:316][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:18:22:318][untils.Log-info] prefix is xlsx
+  [15/12/07 13:20:43:012][untils.Log-info] excel file is java.io.FileInputStream@6a9a4f8e
+  [15/12/07 13:20:43:014][untils.Log-info] fileName.lastIndexOf(".")+1 is71
+  [15/12/07 13:20:43:016][untils.Log-info] prefix is FileInputStream@6a9a4f8e
+  [15/12/07 13:21:40:069][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:21:40:071][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:21:40:073][untils.Log-info] prefix is xlsx
+  [15/12/07 13:24:08:833][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:24:08:836][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:24:08:836][untils.Log-info] prefix is xlsx
+  [15/12/07 13:29:07:275][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:29:07:278][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:29:07:278][untils.Log-info] prefix is xlsx
+  [15/12/07 13:29:56:014][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:29:56:018][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:29:56:018][untils.Log-info] prefix is xlsx
+  [15/12/07 13:31:20:656][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:31:20:659][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:31:20:659][untils.Log-info] prefix is xlsx
+  [15/12/07 13:36:30:489][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:36:30:492][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:36:30:492][untils.Log-info] prefix is xlsx
+  [15/12/07 13:37:23:699][untils.Log-info] excel file is userdata.xlsx
+  [15/12/07 13:37:23:702][untils.Log-info] fileName.lastIndexOf(".")+1 is81
+  [15/12/07 13:37:23:702][untils.Log-info] prefix is xlsx
+  [15/12/07 13:50:52:931][untils.Log-info] inp.markSupported=true
+  [15/12/07 13:50:52:934][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@62a3a716
+  [15/12/07 14:01:51:959][untils.Log-info] inp.markSupported=true
+  [15/12/07 14:01:51:972][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@20302f39
+  [15/12/07 14:03:12:468][untils.Log-info] inp.markSupported=true
+  [15/12/07 14:03:12:470][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@662ec7f1
+  [15/12/07 17:35:58:857][untils.Log-info] inp.markSupported=true
+  [15/12/07 17:36:26:454][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@20ac2837
+  [15/12/07 17:37:27:067][untils.Log-info] inp.markSupported=true
+  [15/12/07 17:37:37:525][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@761b2f32
+  [15/12/07 17:51:30:378][untils.Log-info] inp.markSupported=true
+  [15/12/07 17:51:31:955][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@6963c17d
+  [15/12/07 17:56:23:395][untils.Log-info] inp.markSupported=true
+  [15/12/07 17:56:25:176][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@6963c17d
+  [15/12/07 17:56:41:209][untils.Log-info] xssfworkbook is true
+  [15/12/07 17:57:25:538][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/07 17:57:25:539][untils.Log-info] ExcelWSheet is null
+  [15/12/08 10:40:05:105][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:40:05:108][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1169eec2
+  [15/12/08 10:40:05:144][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:40:06:043][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:40:06:045][untils.Log-info] ExcelWSheet is null
+  [15/12/08 10:40:06:045][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@586ca3ef
+  [15/12/08 10:40:06:045][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 10:41:23:402][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:41:23:405][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1e7ec6c1
+  [15/12/08 10:41:23:421][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:41:24:282][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:41:24:284][untils.Log-info] ExcelWSheet is null
+  [15/12/08 10:41:24:284][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@308820b0
+  [15/12/08 10:41:24:284][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 10:45:14:928][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:45:14:931][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@2f303a76
+  [15/12/08 10:45:14:946][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:45:15:670][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:45:15:672][untils.Log-info] ExcelWSheet is null
+  [15/12/08 10:45:15:672][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4a96d110
+  [15/12/08 10:45:15:672][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 10:46:10:692][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:46:10:695][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@74e312e
+  [15/12/08 10:46:10:710][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:46:11:604][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:47:54:484][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:47:54:487][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@74e312e
+  [15/12/08 10:47:54:502][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:47:55:249][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:49:01:923][untils.Log-info] ExcelWSheet is null
+  [15/12/08 10:49:44:851][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:49:44:854][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@74e312e
+  [15/12/08 10:49:44:870][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:49:45:613][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:49:59:094][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 10:49:59:095][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@29d896d6
+  [15/12/08 10:49:59:095][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 10:50:14:046][untils.Log-info] rowCount=2
+  [15/12/08 10:50:14:047][untils.Log-info] i=0
+  [15/12/08 10:50:14:080][untils.Log-info] i=1
+  [15/12/08 10:50:14:081][untils.Log-info] inp.markSupported=true
+  [15/12/08 10:50:14:081][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@10fdc00
+  [15/12/08 10:50:14:081][untils.Log-info] xssfworkbook is true
+  [15/12/08 10:50:14:146][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 10:50:18:054][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 10:50:18:055][untils.Log-info] total rows is 2
+  [15/12/08 10:50:18:058][untils.Log-info] totalCols is 3
+  [15/12/08 11:05:50:040][untils.Log-info] inp.markSupported=true
+  [15/12/08 11:05:50:042][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@5081ad8f
+  [15/12/08 11:05:50:065][untils.Log-info] xssfworkbook is true
+  [15/12/08 11:05:50:737][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 11:05:50:738][untils.Log-info] ExcelWSheet is null
+  [15/12/08 11:06:11:400][untils.Log-info] inp.markSupported=true
+  [15/12/08 11:06:11:402][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@27b9b888
+  [15/12/08 11:06:11:418][untils.Log-info] xssfworkbook is true
+  [15/12/08 11:06:12:124][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 11:06:12:126][untils.Log-info] ExcelWSheet is null
+  [15/12/08 11:06:12:126][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4a96d110
+  [15/12/08 11:06:12:126][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 11:08:50:122][untils.Log-info] inp.markSupported=true
+  [15/12/08 11:08:50:124][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@74e312e
+  [15/12/08 11:08:50:139][untils.Log-info] xssfworkbook is true
+  [15/12/08 11:08:50:912][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 11:09:49:296][untils.Log-info] inp.markSupported=true
+  [15/12/08 11:09:49:379][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@3b87bd31
+  [15/12/08 11:09:50:801][untils.Log-info] xssfworkbook is true
+  [15/12/08 11:11:41:526][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 12:39:44:132][untils.Log-info] inp.markSupported=true
+  [15/12/08 12:39:44:135][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@5081ad8f
+  [15/12/08 12:39:44:155][untils.Log-info] xssfworkbook is true
+  [15/12/08 12:39:45:011][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 12:39:45:012][untils.Log-info] sheet is userdata1
+  [15/12/08 12:41:53:889][untils.Log-info] inp.markSupported=true
+  [15/12/08 12:41:53:892][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@71a9b093
+  [15/12/08 12:41:53:912][untils.Log-info] xssfworkbook is true
+  [15/12/08 12:41:54:566][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 12:41:54:568][untils.Log-info] sheet is userdata1
+  [15/12/08 12:42:20:906][untils.Log-info] inp.markSupported=true
+  [15/12/08 12:42:20:909][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 12:42:20:927][untils.Log-info] xssfworkbook is true
+  [15/12/08 12:42:21:698][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 12:42:24:313][untils.Log-info] sheet is userdata1
+  [15/12/08 12:45:27:254][untils.Log-info] inp.markSupported=true
+  [15/12/08 12:45:27:256][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 12:45:27:278][untils.Log-info] xssfworkbook is true
+  [15/12/08 12:45:28:143][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 12:45:38:079][untils.Log-info] sheet is userdata1
+  [15/12/08 13:32:30:288][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:32:30:290][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@71a9b093
+  [15/12/08 13:32:30:308][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:32:31:004][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:32:36:228][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:32:36:230][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@66174689
+  [15/12/08 13:32:36:253][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:32:37:062][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:36:44:761][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:36:44:763][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 13:36:44:781][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:36:45:574][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:36:57:650][untils.Log-info] sheet is userdata1
+  [15/12/08 13:38:28:874][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:38:28:877][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@15dac551
+  [15/12/08 13:38:28:896][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:38:29:701][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:38:37:802][untils.Log-info] work book is userdata1
+  [15/12/08 13:39:50:463][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:39:50:465][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 13:39:50:484][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:39:51:277][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:39:53:290][untils.Log-info] work book is -1
+  [15/12/08 13:40:56:684][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:40:56:687][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 13:40:56:710][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:40:57:525][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:41:01:085][untils.Log-info] work book is -1
+  [15/12/08 13:41:48:558][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:41:48:561][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 13:41:48:580][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:41:49:285][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:41:51:638][untils.Log-info] work book is 0
+  [15/12/08 13:44:02:434][untils.Log-info] sheet is userdata1
+  [15/12/08 13:44:48:784][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:44:48:786][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 13:44:48:805][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:44:49:636][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:44:51:445][untils.Log-info] work book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:44:56:079][untils.Log-info] sheet is userdata1
+  [15/12/08 13:45:45:596][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:45:45:599][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@15dac551
+  [15/12/08 13:45:45:618][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:45:46:381][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:45:48:868][untils.Log-info] work book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:45:54:584][untils.Log-info] sheet is userdata1
+  [15/12/08 13:46:06:451][untils.Log-info] index is 1
+  [15/12/08 13:46:58:609][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:46:58:611][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@283e07bd
+  [15/12/08 13:46:58:630][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:46:59:396][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:47:01:324][untils.Log-info] work book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:47:04:815][untils.Log-info] sheet is userdata1
+  [15/12/08 13:47:05:699][untils.Log-info] index is 0
+  [15/12/08 13:47:06:571][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 13:50:11:450][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:50:11:453][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 13:50:11:471][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:50:12:301][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:52:27:659][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:52:27:662][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@66174689
+  [15/12/08 13:52:27:680][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:52:28:457][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:52:29:665][untils.Log-info] work book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:52:29:668][untils.Log-info] sheet is userdata1
+  [15/12/08 13:52:29:668][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 13:54:59:377][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:54:59:379][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 13:54:59:397][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:55:00:216][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:55:01:930][untils.Log-info] sheet is userdata1
+  [15/12/08 13:56:46:431][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 13:57:01:865][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:57:01:867][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 13:57:01:886][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:57:02:705][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:57:03:785][untils.Log-info] sheet is userdata1
+  [15/12/08 13:57:26:464][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:57:26:466][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@677f896c
+  [15/12/08 13:57:26:485][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:57:27:310][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:57:29:292][untils.Log-info] sheet is userdata1
+  [15/12/08 13:59:10:313][untils.Log-info] inp.markSupported=true
+  [15/12/08 13:59:10:315][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 13:59:10:333][untils.Log-info] xssfworkbook is true
+  [15/12/08 13:59:11:113][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 13:59:12:409][untils.Log-info] sheet is userdata1
+  [15/12/08 14:00:45:858][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:00:45:861][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 14:00:45:879][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:00:46:660][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:00:50:400][untils.Log-info] sheet is userdata1
+  [15/12/08 14:01:21:631][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:01:21:633][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@21800bc
+  [15/12/08 14:01:21:651][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:01:22:424][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:01:24:870][untils.Log-info] sheet is userdata1
+  [15/12/08 14:01:36:416][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:01:36:418][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 14:01:36:436][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:01:37:267][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:01:42:000][untils.Log-info] sheet is userdata1
+  [15/12/08 14:13:39:934][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:13:39:937][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4dd0540c
+  [15/12/08 14:13:39:955][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:13:40:746][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:13:42:228][untils.Log-info] sheet is userdata1
+  [15/12/08 14:13:59:811][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:13:59:814][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 14:13:59:835][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:14:00:827][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:14:04:530][untils.Log-info] sheet is userdata1
+  [15/12/08 14:14:13:812][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:14:13:815][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 14:14:13:833][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:14:14:622][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:14:15:698][untils.Log-info] sheet is userdata1
+  [15/12/08 14:16:11:533][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:16:11:535][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4631ca2b
+  [15/12/08 14:16:11:553][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:16:12:335][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:16:13:442][untils.Log-info] sheet is userdata1
+  [15/12/08 14:16:14:231][untils.Log-info] ExcelWSheet is null
+  [15/12/08 14:16:28:169][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:16:28:172][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@75d837b6
+  [15/12/08 14:16:28:192][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:16:29:037][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:16:29:937][untils.Log-info] sheet is userdata1
+  [15/12/08 14:16:34:991][untils.Log-info] ExcelWSheet is null
+  [15/12/08 14:19:13:467][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:19:13:469][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1db8e577
+  [15/12/08 14:19:13:484][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:19:14:133][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:19:14:134][untils.Log-info] sheet is userdata1
+  [15/12/08 14:19:14:135][untils.Log-info] ExcelWSheet is null
+  [15/12/08 14:19:14:135][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@586ca3ef
+  [15/12/08 14:19:14:135][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:20:31:719][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:20:31:721][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@246fd685
+  [15/12/08 14:20:31:735][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:20:32:470][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:20:32:472][untils.Log-info] sheet is userdata1
+  [15/12/08 14:20:32:472][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:20:32:472][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@586ca3ef
+  [15/12/08 14:20:32:472][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:20:32:472][untils.Log-info] rowCount=2
+  [15/12/08 14:20:32:472][untils.Log-info] i=0
+  [15/12/08 14:20:32:477][untils.Log-info] i=1
+  [15/12/08 14:20:32:477][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:20:32:478][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@5622ca71
+  [15/12/08 14:20:32:478][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:20:32:522][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:20:32:522][untils.Log-info] sheet is userdata1
+  [15/12/08 14:20:32:523][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:20:32:533][untils.Log-info] total rows is 2
+  [15/12/08 14:20:32:533][untils.Log-info] totalCols is 3
+  [15/12/08 14:33:19:871][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:33:19:873][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@6bfb5fce
+  [15/12/08 14:33:19:888][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:33:20:598][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:33:20:599][untils.Log-info] sheet is userdata1
+  [15/12/08 14:33:20:600][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:33:20:600][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@6d85ada3
+  [15/12/08 14:33:20:600][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:33:20:600][untils.Log-info] rowCount=2
+  [15/12/08 14:33:20:600][untils.Log-info] i=0
+  [15/12/08 14:33:20:604][untils.Log-info] i=1
+  [15/12/08 14:33:20:605][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:33:20:605][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1357fdf7
+  [15/12/08 14:33:20:605][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:33:20:649][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:33:20:649][untils.Log-info] sheet is userdata1
+  [15/12/08 14:33:20:650][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:33:20:650][untils.Log-info] total rows is 2
+  [15/12/08 14:33:20:651][untils.Log-info] totalCols is 3
+  [15/12/08 14:33:27:727][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:33:27:727][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@2bc46234
+  [15/12/08 14:33:27:727][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:33:27:775][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:33:27:776][untils.Log-info] sheet is userdata1
+  [15/12/08 14:33:27:776][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:33:27:776][untils.Log-info] cell is 
+  [15/12/08 14:33:27:850][untils.Log-info] set the result is null
+  [15/12/08 14:34:53:954][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:34:53:956][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1fc202e5
+  [15/12/08 14:34:53:970][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:34:54:767][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:34:54:769][untils.Log-info] sheet is userdata1
+  [15/12/08 14:34:54:769][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:34:54:769][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@48d96814
+  [15/12/08 14:34:54:769][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:34:54:770][untils.Log-info] rowCount=2
+  [15/12/08 14:34:54:770][untils.Log-info] i=0
+  [15/12/08 14:34:54:774][untils.Log-info] i=1
+  [15/12/08 14:34:54:775][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:34:54:775][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@3e66fac4
+  [15/12/08 14:34:54:775][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:34:54:818][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:34:54:818][untils.Log-info] sheet is userdata1
+  [15/12/08 14:34:54:819][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:34:54:820][untils.Log-info] total rows is 2
+  [15/12/08 14:34:54:820][untils.Log-info] totalCols is 3
+  [15/12/08 14:35:00:218][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:35:00:218][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1bf80c8d
+  [15/12/08 14:35:00:218][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:35:00:264][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:35:00:264][untils.Log-info] sheet is userdata1
+  [15/12/08 14:35:00:264][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:35:00:265][untils.Log-info] cell is 
+  [15/12/08 14:35:00:278][untils.Log-info] set the result is null
+  [15/12/08 14:37:42:837][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:37:42:840][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@7fa5c9c6
+  [15/12/08 14:37:42:854][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:37:43:564][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:37:43:566][untils.Log-info] sheet is userdata1
+  [15/12/08 14:37:43:566][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:37:43:566][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4c7814f
+  [15/12/08 14:37:43:566][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:37:43:566][untils.Log-info] rowCount=2
+  [15/12/08 14:37:43:567][untils.Log-info] i=0
+  [15/12/08 14:37:43:571][untils.Log-info] i=1
+  [15/12/08 14:37:43:571][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:37:43:571][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@620a18af
+  [15/12/08 14:37:43:571][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:37:43:623][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:37:43:624][untils.Log-info] sheet is userdata1
+  [15/12/08 14:37:43:625][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:37:43:625][untils.Log-info] total rows is 2
+  [15/12/08 14:37:43:625][untils.Log-info] totalCols is 3
+  [15/12/08 14:37:48:759][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:37:48:759][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@1a1fc11
+  [15/12/08 14:37:48:760][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:37:48:810][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:37:48:810][untils.Log-info] sheet is userdata1
+  [15/12/08 14:37:48:810][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:37:48:811][untils.Log-info] cell is 
+  [15/12/08 14:37:48:824][untils.Log-info] set the result is Pass
+  [15/12/08 14:38:46:100][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:38:46:102][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@5d6227a2
+  [15/12/08 14:38:46:116][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:38:46:806][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:38:46:807][untils.Log-info] sheet is userdata1
+  [15/12/08 14:38:46:808][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:38:46:808][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@45fa6bfc
+  [15/12/08 14:38:46:808][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:38:46:808][untils.Log-info] rowCount=2
+  [15/12/08 14:38:46:808][untils.Log-info] i=0
+  [15/12/08 14:38:46:813][untils.Log-info] i=1
+  [15/12/08 14:38:46:813][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:38:46:813][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@4dabb72
+  [15/12/08 14:38:46:813][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:38:46:861][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:38:46:861][untils.Log-info] sheet is userdata1
+  [15/12/08 14:38:46:863][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:38:46:863][untils.Log-info] total rows is 2
+  [15/12/08 14:38:46:863][untils.Log-info] totalCols is 3
+  [15/12/08 14:38:51:480][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:38:51:480][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@3072115
+  [15/12/08 14:38:51:480][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:38:51:526][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:38:51:526][untils.Log-info] sheet is userdata1
+  [15/12/08 14:38:51:526][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:38:51:527][untils.Log-info] cell is 
+  [15/12/08 14:38:51:540][untils.Log-info] set the result is Pass
+  [15/12/08 14:39:03:731][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:39:03:734][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@7fa5c9c6
+  [15/12/08 14:39:03:748][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:39:04:461][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:39:04:463][untils.Log-info] sheet is userdata1
+  [15/12/08 14:39:04:463][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:39:04:463][untils.Log-info] test case name is automationFramework.DataProviderWithExcel_001@4c7814f
+  [15/12/08 14:39:04:463][untils.Log-info] test case name is DataProviderWithExcel_001by getTestName!
+  [15/12/08 14:39:04:464][untils.Log-info] rowCount=2
+  [15/12/08 14:39:04:464][untils.Log-info] i=0
+  [15/12/08 14:39:04:468][untils.Log-info] i=1
+  [15/12/08 14:39:04:468][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:39:04:469][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@55827f7d
+  [15/12/08 14:39:04:469][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:39:04:513][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:39:04:514][untils.Log-info] sheet is userdata1
+  [15/12/08 14:39:04:515][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:39:04:515][untils.Log-info] total rows is 2
+  [15/12/08 14:39:04:515][untils.Log-info] totalCols is 3
+  [15/12/08 14:39:09:245][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:39:09:246][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@6f28dc37
+  [15/12/08 14:39:09:246][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:39:09:292][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:39:09:292][untils.Log-info] sheet is userdata1
+  [15/12/08 14:39:09:292][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/08 14:39:09:293][untils.Log-info] cell is 
+  [15/12/08 14:39:09:307][untils.Log-info] set the result is Pass
+  [15/12/08 14:41:12:068][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:41:12:070][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@119126ab
+  [15/12/08 14:41:12:090][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:41:12:814][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:41:12:815][untils.Log-info] sheet is userdata1
+  [15/12/08 14:41:12:815][untils.Log-info] ExcelWSheet is null
+  [15/12/08 14:42:10:014][untils.Log-info] inp.markSupported=true
+  [15/12/08 14:42:10:017][untils.Log-info] inp is PushbackInputStream java.io.PushbackInputStream@119126ab
+  [15/12/08 14:42:10:036][untils.Log-info] xssfworkbook is true
+  [15/12/08 14:42:10:668][untils.Log-info] excel book is Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+  [15/12/08 14:42:10:670][untils.Log-info] sheet is userdata1
+  [15/12/08 14:42:10:670][untils.Log-info] ExcelWSheet is Name: /xl/worksheets/sheet1.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+  [15/12/16 17:52:40:091][untils.Log-info] launch the website
+  [15/12/16 17:52:40:100][untils.Log-info] automationFramework.LoginTest
+  [15/12/16 17:53:29:305][untils.Log-info] sign in the web
+  [15/12/16 18:00:49:420][untils.Log-info] launch the website
+  [15/12/16 18:00:49:423][untils.Log-info] automationFramework.LoginTest
+  [15/12/16 18:00:56:006][untils.Log-info] sign in the web
+  [15/12/16 18:01:13:557][untils.Log-info] launch the website
+  [15/12/16 18:01:13:560][untils.Log-info] automationFramework.LoginTest
+  [15/12/16 18:01:19:166][untils.Log-info] sign in the web
+  [15/12/16 18:02:06:432][untils.Log-info] launch the website
+  [15/12/16 18:02:06:434][untils.Log-info] automationFramework.LoginTest
+  [15/12/16 18:02:13:370][untils.Log-info] sign in the web
+  [15/12/16 18:05:34:533][untils.Log-info] launch the website
+  [15/12/16 18:05:34:536][untils.Log-info] automationFramework.LoginTest
+  [15/12/16 18:05:40:501][untils.Log-info] sign in the web
+  [15/12/21 15:34:50:357][untils.Log-info] launch the website
+  [15/12/21 15:34:50:383][untils.Log-info] automationFramework.LoginTest
+  [15/12/21 15:34:56:363][untils.Log-info] sign in the web
+  [15/12/21 15:40:27:070][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:40:27:073][untils.Log-info] value is 20151221144934569946
+  [15/12/21 15:40:27:073][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:40:27:073][untils.Log-info] path is /
+  [15/12/21 15:40:27:073][untils.Log-info] dt is Tue Dec 20 14:46:18 CST 2016
+  [15/12/21 15:40:27:077][untils.Log-info] Wed Dec 21 04:46:18 CST 2016
+  [15/12/21 15:42:54:083][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:42:54:085][untils.Log-info] value is 20151221144934569946
+  [15/12/21 15:42:54:085][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:42:54:086][untils.Log-info] path is /
+  [15/12/21 15:42:54:086][untils.Log-info] dt is Tue Dec 20 14:46:18 CST 2016
+  [15/12/21 15:42:54:088][untils.Log-info] Wed Dec 21 04:46:18 CST 2016
+  [15/12/21 15:42:54:091][untils.Log-info] cookie is __kaola_usertrack=20151221144934569946; expires=星期三, 21 十二月 2016 04:46:18 CST; path=/; domain=.kaola.com
+  [15/12/21 15:45:25:054][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:45:25:057][untils.Log-info] value is 20151221154805708977
+  [15/12/21 15:45:25:057][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:45:25:058][untils.Log-info] path is /
+  [15/12/21 15:45:25:058][untils.Log-info] dt is Tue Dec 20 15:44:50 CST 2016
+  [15/12/21 15:45:25:060][untils.Log-info] Wed Dec 21 05:44:50 CST 2016
+  [15/12/21 15:45:25:064][untils.Log-info] cookie is __kaola_usertrack=20151221154805708977; expires=星期三, 21 十二月 2016 05:44:50 CST; path=/; domain=.kaola.com
+  [15/12/21 15:48:38:182][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:48:38:185][untils.Log-info] value is 20151221154805708977
+  [15/12/21 15:48:38:185][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:48:38:185][untils.Log-info] path is /
+  [15/12/21 15:48:38:186][untils.Log-info] dt is Tue Dec 20 15:44:50 CST 2016
+  [15/12/21 15:48:38:189][untils.Log-info] Wed Dec 21 05:44:50 CST 2016
+  [15/12/21 15:48:38:194][untils.Log-info] cookie is __kaola_usertrack=20151221154805708977; expires=星期三, 21 十二月 2016 05:44:50 CST; path=/; domain=.kaola.com
+  [15/12/21 15:50:37:872][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:50:37:875][untils.Log-info] value is 20151221154805708977
+  [15/12/21 15:50:37:875][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:50:37:875][untils.Log-info] path is /
+  [15/12/21 15:50:37:876][untils.Log-info] dt is Tue Dec 20 15:44:50 CST 2016
+  [15/12/21 15:50:37:879][untils.Log-info] Wed Dec 21 05:44:50 CST 2016
+  [15/12/21 15:50:37:882][untils.Log-info] cookie is __kaola_usertrack=20151221154805708977; expires=星期三, 21 十二月 2016 05:44:50 CST; path=/; domain=.kaola.com
+  [15/12/21 15:50:51:558][untils.Log-info] name is __kaola_usertrack
+  [15/12/21 15:50:51:560][untils.Log-info] value is 20151221154805708977
+  [15/12/21 15:50:51:560][untils.Log-info] domain is .kaola.com
+  [15/12/21 15:50:51:560][untils.Log-info] path is /
+  [15/12/21 15:50:51:560][untils.Log-info] dt is Tue Dec 20 15:44:50 CST 2016
+  [15/12/21 15:50:51:563][untils.Log-info] Wed Dec 21 05:44:50 CST 2016
+  [15/12/21 15:50:51:566][untils.Log-info] cookie is __kaola_usertrack=20151221154805708977; expires=星期三, 21 十二月 2016 05:44:50 CST; path=/; domain=.kaola.com
+  [15/12/21 16:22:27:699][untils.Log-info] file is __kaola_usertrack;20151221154805708977;.kaola.com;/;Tue Dec 20 15:44:50 CST 2016;false
+mail_idc;"";.mail.163.com;/;null;false
+secu_info;1;.mail.163.com;/;null;false
+MAIL_MISC;licy_luo;.mail.163.com;/;null;false
+MAIL_PINFO;"licy_luo@163.com|1450684084|1|mail163|10&29|shh&1450683492&mail163#shh&null#10#0#0|186596&0|mailsettings&mail163|licy_luo@163.com";.mail.163.com;/;null;false
+mail_upx;t11hz.mail.163.com|t12hz.mail.163.com|t13hz.mail.163.com|t1hz.mail.163.com|t2hz.mail.163.com|t4hz.mail.163.com|t5hz.mail.163.com|t6hz.mail.163.com|t7hz.mail.163.com|t8hz.mail.163.com|t10hz.mail.163.com|t4bj.mail.163.com|t1bj.mail.163.com|t2bj.mail.163.com|t3bj.mail.163.com;.mail.163.com;/;null;false
+locale;"";mail.163.com;/;Thu Dec 18 15:44:49 CST 2025;false
+mail_uid;licy_luo@163.com;.mail.163.com;/;null;false
+usertrack;3/zPBVZ3rrW8aLwqAw8AAg==;.kaola.com;/;Tue Dec 20 15:44:50 CST 2016;false
+usertrack;3/zPBVZ3rrZSm7ajAw6uAg==;.163.com;/;Tue Dec 20 15:44:50 CST 2016;false
+mail_health_check_time;1450684084780;.mail.163.com;/js6;Sun Mar 20 15:44:50 CST 2016;false
+NETEASE_WDA_UID;"licy_luo@163.com#|#1450684086137";.kaola.com;/;Tue Dec 20 15:44:50 CST 2016;false
+mail_entry_sess;a0b17ac06726b77c8f9de4f7928103750292b7af3f7d17150a6fda830f1e9e611e8889f510affde549f91e7817e482d4deb7ccc310fd451a2cc565adf497220a3abc80e02fec408bdcd4d47cdb404e5ca376efb9702585da02aff865653b22398e8194eaaa239cad7413140c98aec6d35aec9ee62c02f6c8229e6e9fa8c8f4996844f3bfa0e321153dbe08327bbea853d753182f5e2a3a54e813f8d8ac8157c046dfe478cb75decffa896b1dbd9a38b19ef232c3bf1e17b7758255a8c8c1a12b;.mail.163.com;/;null;false
+P_INFO;licy_luo@163.com|1450684084|1|mail163|10&29|shh&1450683492&mail163#shh&null#10#0#0|186596&0|mailsettings&mail163|licy_luo@163.com;.163.com;/;Tue Dec 20 15:44:48 CST 2016;false
+S_INFO;1450684084|0|3&100##|licy_luo;.163.com;/;null;false
+NTES_PASSPORT;3CDOW29fiIOATRn7SZGCop2OtTq7yOwqMMDiF_llkb9Li.Ys9E1Strd7.rif9WW30_bUjwV159H_bVHWbcm.Psqiui7rEdiZuVWfYk6w1ahW_;.163.com;/;Tue Dec 20 15:44:48 CST 2016;false
+Coremail.sid;mBGSLDeBCyQourGAbtBBSQZJLLCXqUvv;mail.163.com;/;null;false
+Coremail;1450684084252%mBGSLDeBCyQourGAbtBBSQZJLLCXqUvv%g6a70.mail.163.com;.mail.163.com;/;null;false
+JSESSIONID;A7C57A888346BF7C53926D217A4DB20E;mail.163.com;/;null;false
+_ntes_nnid;13ead042905f1d16ebaf97e25eea5c26,1450683890763;.kaola.com;/;Wed Nov 27 15:44:50 CST 2115;false
+mail_style;js6;.mail.163.com;/;null;false
+NTES_SESS;CdQynp301PuVRl_6JpVRMGynY7Pxvh6LbuEGbsxpOZq9TDRI0nzAcWUsDWTa0ddGml4UZhLxUsGZCT1k1upx_WoJ38y8L9b0G00xko_MxOBbMVsr7Vho7wlyiQ1nZ_AzVq8WRfEp4FyIY4Pro2fR2TBLwocSUHt4BCsaHayy3HUEfZkyVhkYQ96Rf;.163.com;/;null;false
+mail_host;mail.163.com;.mail.163.com;/;null;false
+mail_upx_nf;;.mail.163.com;/;null;false
+SID;cb9635e6-e33c-4f31-8c64-f2c9a87efaae;.163.com;/;null;false
+HTONLINE;90a757a33b2a762f6e6e9eaae4011aec3209afe7;global.163.com;/;null;false
+_da_ntes_uid;20151221154805708977;.kaola.com;/;Tue Dec 20 15:44:50 CST 2016;false
+HTONLINE;590548a9cdeacfc73347066b030d62bd84f808ee;www.kaola.com;/;null;false
+MAIL_SESS;CdQynp301PuVRl_6JpVRMGynY7Pxvh6LbuEGbsxpOZq9TDRI0nzAcWUsDWTa0ddGml4UZhLxUsGZCT1k1upx_WoJ38y8L9b0G00xko_MxOBbMVsr7Vho7wlyiQ1nZ_AzVq8WRfEp4FyIY4Pro2fR2TBLwocSUHt4BCsaHayy3HUEfZkyVhkYQ96Rf;.mail.163.com;/;null;false
+cm_last_info;"dT1saWN5X2x1byU0MDE2My5jb20mZD1odHRwJTNBJTJGJTJGbWFpbC4xNjMuY29tJTJGanM2JTJGbWFpbi5qc3AlM0ZzaWQlM0RtQkdTTERlQkN5UW91ckdBYnRCQlNRWkpMTENYcVV2diZzPW1CR1NMRGVCQ3lRb3VyR0FidEJCU1FaSkxMQ1hxVXZ2Jmg9aHR0cCUzQSUyRiUyRm1haWwuMTYzLmNvbSUyRmpzNiUyRm1haW4uanNwJTNGc2lkJTNEbUJHU0xEZUJDeVFvdXJHQWJ0QkJTUVpKTExDWHFVdnYmdz1tYWlsLjE2My5jb20mbD0tMSZ0PS0xJm49dA==";.mail.163.com;/;null;false
+NTESonlineSI;4187EF91E650F3A66E6FD41776EDF417.classa-haitao5.server.163.org-8010;global.163.com;/;null;false
+NTESonlineSI;4D8866CCF04E23EB995D4DB8E3F77C88.hzabj-haitao-online2.server.163.org-8010;www.kaola.com;/;null;false
+_ntes_nuid;null;.kaola.com;/;Tue Dec 20 15:44:50 CST 2016;false
+MAIL_SINFO;1450684084|0|3&100##|licy_luo;.mail.163.com;/;null;false
+_ntes_nuid;13ead042905f1d16ebaf97e25eea5c26;.163.com;/;Sun Dec 16 15:44:50 CST 2035;false
+
+  [15/12/22 16:44:42:860][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 16:49:46:154][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 16:52:41:103][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:00:38:931][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:01:14:219][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:08:00:282][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:08:01:780][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:09:39:626][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:10:15:298][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:16:25:779][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  [15/12/22 17:16:46:885][untils.Log-info] directory is D:\project\SCM-auto\Locator\Locator.yaml
+  

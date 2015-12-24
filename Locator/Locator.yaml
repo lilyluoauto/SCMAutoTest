@@ -1,0 +1,36 @@
+account:
+  type: id
+  value:idPlaceholder
+userName:
+  type: id
+  value:idInput
+PwdInput:
+  type: id
+  value: pwdInput
+loginButton:
+  type: id
+  value: loginBtn
+freeLoginCheck:
+  type: xpath
+  value: "//*[@id='lfAutoLogin']/b"
+writeMailButton:
+  type: xpath
+  value: "//*[@id='_mail_component_61_61']/span[2]"
+receiveMailBox:
+  type: linkText
+  value: "收件箱"
+receiveMailAddr:
+  type:  xpath
+  value: "//*[@id='_mail_emailinput_0_222']/input"
+mailTitle:
+   type: xpath
+   value:"//*[@id=\"_mail_input_3_223\"]/input"
+mailEditIframe:
+   type: class
+   value: "APP-editor-iframe"
+mailContent:
+   type: xpath
+   value: "/html/body"
+sendMailBut:
+   type: class
+   value: "nui-btn-text"

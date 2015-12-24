@@ -1,23 +1,37 @@
 package pageObjects;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 public class LogInPage extends Page{
-	
 
-	    public static By account=By.id("idPlaceholder");
-	    public static By userName=By.id("idInput");
-	    public static By PwdInput=By.id("pwdInput");
-	    public static By loginButton=By.id("loginBtn");
-	    public void getButton(){}
-	    
-		public static WebElement getElement(WebDriver d, By key) {
-			// TODO Auto-generated method stub
-			return  d.findElement(key);
-			
-		}
+
+	/*  login page element  */
+	public String account = "account";
+	public String userName = "userName";
+	public String PwdInput = "PwdInput";
+	public String loginButton = "loginButton";
+	public String freeLoginCheck = "freeLoginCheck";
+
+	public LogInPage(String yamlFile, WebDriver driver) {
+		super(yamlFile, driver);
+	}
+
+	public void SignInAction(WebDriver d) throws Exception {
+
+		//  driver.get(baseUrl + "/");
+//		pg=new Page("loginPage",d);
+		this.getElement(userName,1).sendKeys(untils.Constants.sUsername);
+		this.getElement(PwdInput, 1).sendKeys(untils.Constants.sPwd);
+		this.getElement(loginButton, 1).click();
+	}
+
+	public void SignInAction(WebDriver d, String username, String passwd){
+		//pg=new Page("loginPage",d);
+		getElement( userName,1).sendKeys(username);
+		getElement(PwdInput,1).sendKeys(passwd);
+		getElement(loginButton,1).click();
+	}
+
 }
 	
 

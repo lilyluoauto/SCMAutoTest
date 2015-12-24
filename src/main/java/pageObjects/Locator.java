@@ -24,6 +24,7 @@ import static org.ho.yaml.Yaml.loadType;
 public class Locator {
     private String yamlFile;
     private static WebDriver driver;
+    static Log log=new Log(Locator.class.getName());
 
     public Locator(String yamlFile,WebDriver driver){
         this.yamlFile=yamlFile;
@@ -34,6 +35,7 @@ public class Locator {
     public void getYamlFile(){
         File f=new File("Locator/"+yamlFile+".yaml");
         try{
+            log.info("directory is "+f.getAbsolutePath());
             ml= loadType(new FileInputStream(f.getAbsolutePath()), HashMap.class);
 
         }catch(FileNotFoundException e){
@@ -47,7 +49,7 @@ public class Locator {
             by=By.id(value);
         }
         if(type.equals("name")){
-            by=By.name((value));
+            by=By.name(value);
 
         }
         if(type.equals("xpath")){
@@ -100,7 +102,7 @@ public class Locator {
         if (f) {
             return driver.findElement(k);
         } else {
-            Log.info("element could not find!");
+            log.info("element could not be found!");
             return null;
         }
     }

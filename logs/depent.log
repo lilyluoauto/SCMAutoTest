@@ -1,0 +1,13 @@
+[TestNG] Running:
+  C:\Users\w\.IntelliJIdea14\system\temp-testng-customsuite.xml
+
+org.testng.TestNGException: 
+Parameter 'browser' is required by @Configuration on method beforeTest but has not been marked @Optional or defined
+in C:\Users\w\.IntelliJIdea14\system\temp-testng-customsuite.xml
+
+===============================================
+Custom suite
+Total tests run: 1, Failures: 0, Skips: 1
+Configuration Failures: 1, Skips: 1
+===============================================
+

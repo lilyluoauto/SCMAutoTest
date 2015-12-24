@@ -6,6 +6,7 @@ import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import pageObjects.Page;
 import untils.Log;
 
 public class LoginTest {
@@ -22,6 +23,7 @@ public class LoginTest {
 		  mylog.info("sign in the web");
 		ComOpe.SignInAction(driver);
         Reporter.log("Sign In Successful | " );
+		  Page.TakeScreenShot(driver);
 	} catch (Exception e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
